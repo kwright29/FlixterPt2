@@ -33,8 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![walkthrough_flixster2](https://user-images.githubusercontent.com/64405568/192177907-0b9829ce-23db-44a2-bac6-97a61a6f83fe.gif)
+![walkthrough_flixster2](https://user-images.githubusercontent.com/64405568/192178007-2466830d-7d26-489f-8c67-5e653ae53f25.gif)
 
 GIF created with ...  
 [Kap](https://getkap.co/) for macOS
